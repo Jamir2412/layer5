@@ -65,7 +65,7 @@
     "gatsby-transformer-sharp": "^4.25.0",
     "gbimage-bridge": "^0.2.2",
     "gsap": "^3.11.4",
-    "joi": "^17.7.0",
+    "joi": "^17.9.1",
     "js-search": "^2.0.0",
     "lodash": "^4.17.21",
     "nuka-carousel": "^6.0.1",
